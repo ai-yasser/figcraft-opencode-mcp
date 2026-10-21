@@ -1,0 +1,17 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "servers": {
+      "figcraft-app": {
+        "type": "local",
+        "command": [
+          "../figcraft/target/release/figcraft-cli",
+          "mcp",
+          "--attach",
+          "{env:FIGCRAFT_PORT}"
+        ],
+        "cwd": "."
+      }
+    }
+  }
+}

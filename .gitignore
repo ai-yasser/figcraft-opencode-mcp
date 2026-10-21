@@ -1,0 +1,8 @@
+# Local OpenCode configuration, assets, and generated outputs
+opencode.json
+opencode.jsonc
+.opencode/opencode.json
+.opencode/opencode.jsonc
+.mcp.json
+branding_assets/
+downloads/
