@@ -1,4 +1,4 @@
-# The Story: From Invisible Grind to Real-Time AI Canvas Manipulation
+# From Invisible Grind to Real-Time AI Canvas Manipulation
 
 At 25, I asked myself an uncomfortable question: why was I learning so much without having much to show for it?
 
